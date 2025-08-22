@@ -1,0 +1,7 @@
+threading
+math
+sounddevice
+numpy
+tkinter
+dataclasses
+typing
